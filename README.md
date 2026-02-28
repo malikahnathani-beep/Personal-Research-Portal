@@ -154,7 +154,7 @@ streamlit run src/app/app.py
 |--------|--------|
 | Queries answered | ~15/20 |
 | Queries correctly refused | ~5/20 |
-| Avg confidence (answered) | ~0.81 |
+| Avg confidence (answered) | ~0.82 |
 | Citation accuracy | 100% (corpus-verified) |
 
 Run the full eval from the Evaluation tab in the UI, or see `logs/query_log.jsonl` for individual results.
