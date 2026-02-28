@@ -123,8 +123,8 @@ The Mars Life Research Portal is an intelligent research assistant that synthesi
 │   └── app/
 │       └── app.py                 # Streamlit web UI
 ├── Phase 3 Final Report.pdf       # Final Report
-├── AI Usage Disclosure.pdf        
-└── Appendix.pdf       
+├── AI Usage Disclosure.md        
+└── Appendix.md       
 ```
 
 ---
