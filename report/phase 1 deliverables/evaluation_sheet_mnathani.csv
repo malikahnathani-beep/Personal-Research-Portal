@@ -1,0 +1,18 @@
+AI Model Development - Phase 1 Evaluation Sheet,,,,,
+Test Case,Prompt,Paper Name,Model,Score,Notes
+Paper Triage,Prompt A,Paper A,Copilot Smart,2,"Correct structure, content aligns with paper themes, no citations given"
+Paper Triage,Prompt A,Paper A,Gemini Think,2,"Clear structure, slightly better synthesis than Copilot, no citations given"
+Paper Triage,Prompt B,Paper A,Copilot Smart,4,"Exact structure given, citations present in all fields, no obvious hallucinations"
+Paper Triage,Prompt B,Paper A,Gemini Think,4,"Citations everywhere, well structures, no hallucinations seen"
+Paper Triage,Prompt A,Paper B,Copilot Smart,3,"Correct content structure, some citations, techically detailed and accurate, no explicit uncertainty"
+Paper Triage,Prompt A,Paper B,Gemini Think,2,"Strong detail, no citation, no explicit undcertainty, correct structure given"
+Paper Triage,Prompt B,Paper B,Copilot Smart,4,"Exact structure, citations throughout, consistent claim, relays uncertainty within claims"
+Paper Triage,Prompt B,Paper B,Gemini Think,4,"Exact structure, citations throughout, consistent claim, relays uncertainty within claims"
+Claim–Evidence Extraction,Prompt A,Paper C,Copilot Smart,4,"Exact structure, citations throughout, consistent claim, relays uncertainty within claims"
+Claim–Evidence Extraction,Prompt A,Paper C,Gemini Think,4,"Exact structure, citations throughout, consistent claim, relays uncertainty within claims"
+Claim–Evidence Extraction,Prompt B,Paper C,Copilot Smart,4,"Exact structure, citations throughout, consistent claim, relays uncertainty within claims"
+Claim–Evidence Extraction,Prompt B,Paper C,Gemini Think,4,"Exact structure, citations throughout, consistent claim, relays uncertainty within claims"
+Claim–Evidence Extraction,Prompt A,Paper D,Copilot Smart,4,"Exact structure, citations throughout, consistent claim, relays uncertainty within claims"
+Claim–Evidence Extraction,Prompt A,Paper D,Gemini Think,4,"Exact structure, citations throughout, consistent claim, relays uncertainty within claims"
+Claim–Evidence Extraction,Prompt B,Paper D,Copilot Smart,4,"Exact structure, citations throughout, consistent claim, relays uncertainty within claims"
+Claim–Evidence Extraction,Prompt B,Paper D,Gemini Think,4,"Exact structure, citations throughout, consistent claim, relays uncertainty within claims"
