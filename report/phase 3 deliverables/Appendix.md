@@ -101,9 +101,8 @@ Per chunk:
 - `notes`: brief quality note (e.g. "strong empirical support", "indirect evidence")
 
 **Constraints / guardrails:**
-- Snippet must come directly from chunk text — no paraphrasing
 - Citation must match the chunk's actual source_id and chunk_id
-- Confidence label thresholds: High >= 0.45, Medium >= 0.30, Low < 0.30
+- Confidence label thresholds: High >= 0.85, Medium >= 0.70, Low < 0.70
 
 **When to use / when not to use:**
 - Use for all answered queries
