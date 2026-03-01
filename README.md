@@ -113,6 +113,7 @@ The Mars Life Research Portal is an intelligent research assistant that synthesi
 ├── report/
 │   ├── phase 1 deliverables/      # Phase 1 deliverables
 │   └── phase 2 deliverables/      # Phase 2 deliverables
+│   └── phase 3 deliverables/      # Phase 3 deliverables (Report + AI Ussage + Appendix)
 ├── src/
 │   ├── rag/
 │   ├── ├── retrieve.py            # Query and evaluate (from Phase 2)
@@ -121,10 +122,8 @@ The Mars Life Research Portal is an intelligent research assistant that synthesi
 │   ├── ├── embed_index.py         # Create embeddings and index
 │   │   └── chunk.py               # Parse and chunk documents
 │   └── app/
-│       └── app.py                 # Streamlit web UI
-├── Phase 3 Final Report.pdf       # Final Report
-├── AI Usage Disclosure.md        
-└── Appendix.md       
+└──     └── app.py                 # Streamlit web UI
+     
 ```
 
 ---
