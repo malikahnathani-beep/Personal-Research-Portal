@@ -167,8 +167,8 @@ Run the full eval from the Evaluation tab in the UI, or see `logs/query_log.json
 | `ModuleNotFoundError` | Run `pip install -r requirements.txt` |
 | `ollama: command not found` | Run `ollama serve` in a separate terminal |
 | `mistral:7b not found` | Run `ollama pull mistral:7b` |
-| `FileNotFoundError: chunks.jsonl` | Run `1.chunking.ipynb` first |
-| `FAISS index not found` | Run `2.embed_and_index.ipynb` after chunking |
+| `FileNotFoundError: chunks.jsonl` | Run `chunking.py` first |
+| `FAISS index not found` | Run `embed_index.py` after chunking |
 | Low confidence / all refused | Expected for edge-case queries — system refuses by design |
 | Port 8501 unavailable | Another Streamlit app is running; close it or use `--server.port 8502` |
 
